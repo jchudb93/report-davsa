@@ -1,0 +1,24 @@
+{
+  "name": "report-davsa",
+  "version": "1.0.0",
+  "description": "Report Davsa Discord bot - [] Setup project  - [] Setup eslint - [] Add bot to server - [] Setup bot - [] Build \"report davsa\" command - [] Build \"aj report <hero>\" command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchudb93/report-davsa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchudb93/report-davsa/issues"
+  },
+  "homepage": "https://github.com/jchudb93/report-davsa#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
