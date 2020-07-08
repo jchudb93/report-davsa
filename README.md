@@ -6,4 +6,4 @@ Report Davsa Discord bot
 - [x] Add bot to server
 - [x] Setup bot
 - [x] Build "report davsa" command
-- [] Build "aj report hero" command
+- [ ] Build "aj report hero" command
